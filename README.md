@@ -55,7 +55,7 @@ Food Availability Tracking:
 Users will be able to see real-time updates on the availability of menu items to avoid ordering disappointments.
 Notifications will alert users when popular items are back in stock.
 
-# Ordering and Delivery System
+## Ordering and Delivery System
 
 Seamless Ordering Process:
 
@@ -83,7 +83,7 @@ User Reviews:
 
 Users can rate their experiences and provide feedback through a rating system.
 
-# Administrative Tools
+## Administrative Tools
 
 Order Management:
 
@@ -128,33 +128,33 @@ One order can include many dishes (many-to-many between Order and Dish, represen
 
 # Mock-Up Screenshot
 
-# 1. Main Page
+## 1. Main Page
 ![Screenshot 2024-06-14 014152](https://github.com/TR-OMAR/UiaFoodService/assets/148281918/7bc62c16-b98f-48a0-8ed8-45f640b523cf)
 
 
-# 2. Register Page
+## 2. Register Page
 ![Screenshot 2024-06-14 014346](https://github.com/TR-OMAR/UiaFoodService/assets/148281918/207e0d94-a524-4808-9dda-238f74992550)
 
-# 3. Login Page
+## 3. Login Page
 ![Screenshot 2024-06-14 014505](https://github.com/TR-OMAR/UiaFoodService/assets/148281918/47247159-2025-4250-b16c-7212253f44de)
 
-# 4. Menu Page
+## 4. Menu Page
 ![Screenshot 2024-06-14 014549](https://github.com/TR-OMAR/UiaFoodService/assets/148281918/4895a17f-c3e0-4021-8d88-20f85ac2a43e)
 
 ![Screenshot 2024-06-14 014602](https://github.com/TR-OMAR/UiaFoodService/assets/148281918/a7fa862b-d351-46eb-a48f-fc8f1c58970c)
 
-# 5. Restaurant Page
+## 5. Restaurant Page
 ![Screenshot 2024-06-14 014720](https://github.com/TR-OMAR/UiaFoodService/assets/148281918/ad683140-66e3-435c-a212-b397e9f132e1)
 
-# 6. Order Page
+## 6. Order Page
 ![Screenshot 2024-06-14 015022](https://github.com/TR-OMAR/UiaFoodService/assets/148281918/fa15d6e7-28d5-4ada-a62d-96fb5a2c4613)
 
-# 7. Contact Page
+## 7. Contact Page
 ![Screenshot 2024-06-14 014809](https://github.com/TR-OMAR/UiaFoodService/assets/148281918/9d126e41-4281-4f03-ae2f-b8b05faa951c)
 
 ![Screenshot 2024-06-14 014820](https://github.com/TR-OMAR/UiaFoodService/assets/148281918/0ae9dd38-ef6a-4935-9380-878f5a539ce4)
 
-# 8. Feedback Page
+## 8. Feedback Page
 ![Screenshot 2024-06-14 014944](https://github.com/TR-OMAR/UiaFoodService/assets/148281918/a04f1488-dce7-42f4-9d09-55c9a44bc8f1)
 
 
@@ -165,25 +165,25 @@ Team Collaboration and Communication
 
 We have faced some issues, one of which is that some of us need help connecting their VS-code to GitHub. So because of that issue, everyone works on his part in his own laptop and after that we have to send it to the one who is connected to the github.
 
-# Technical Debt 
+## Technical Debt 
 We have faced difficulties refactoring or rewriting code without breaking existing functionality and the configuration because whenever we put our new features on our coding it’s breaking the line. 
 
 
-# Integration and Interoperability
+## Integration and Interoperability
 Integrating with third-party APIs, services, or libraries such as we have used the bleeze for making  the  authentication where it gives us some compatibility issues which need to ensure seamless communication between different components or systems.
 
-# Performance and Optimization
+## Performance and Optimization
 We were having difficulties executing our pages data so we optimised code for performance, scalability, and resource usage which help us to Identify and address bugs, slow queries, or memory leaks.
 
 
-# Debugging and Testing
+## Debugging and Testing
 The most harder part was the routers and how to connect the pages to each other.
 
-# Error Handling and Exception Management
+## Error Handling and Exception Management
 We have faced so many problems on this issue. Sometimes we even detect the root of the problem because it was very core. It was a challenge handling unexpected errors, exceptions, and edge cases and also implementing error handling mechanisms and logging but Alhamdulillah we managed to do it.
 
 
-# Deployment and Environment Management
+## Deployment and Environment Management
 We also faced the problem of setting the environment where other ports and devices connected with the xampp and therefore the initial phase was giving us several difficulties managing the app and deploying the other features and connection.
 
 

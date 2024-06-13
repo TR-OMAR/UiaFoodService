@@ -1,66 +1,118 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# UIA Food and Beverage system management
+### Section: 01
+### Group: 04
+### Members:
+#### KEHMESS EL MOCTAR    |              (2113559)
+#### FARUQ MD OMAR        |              (2134787)
+#### AHMAD KHALEEL        |              (1927975)
+#### HASSAN DAMAD         |              (2128989)
+#### MD TANVIR AHMMED SHOPNO |           (2219061)
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
 
-## About Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+# Introduction
+In a technological and advancing world, where time is a precious commodity, We will focus on  the necessity of efficiency, convenience and the availability of Foods and beverages in the mahallah canteens and the restaurants. This facility will be managed through a webpage at the International Islamic University Malaysia (IIUM). It will recognize the user experience for both students and mahallah’s canteen and other restaurants in UIA. 
+We propose the implementation of a UIA food service should be more convenient. UIAfood will be a dedicated website linked with the International Islamic University Malaysia (IIUM), designed to enhance the dining experience for its community. This platform will provide students with comprehensive information about the various restaurants, their foods and their availability available within the university’s canteens, showcasing promotions and discounts to make the restaurants food and beverage which is affordable and convenient. Additionally, UIAfood extends its services beyond campus by connecting users with international restaurants, facilitating easy ordering and delivery from these establishments.
+ This integration ensures that students have diverse and accessible food choices, both within and outside the university, streamlining the process of discovering various countries' cultural food and connecting all restaurants together in one page. 
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+# Objectives
+Increased food accessibility and connecting the food and beverage stalls and also the mahallah canteens in one site for the students and others.
+People can order foods from the mahallah canteens and the other UIA food stalls also facilitating delivery systems which will be allowing them to track their order.
+Users may check the availability of the foods or shop before making the order from the site.     
+Provide a user-friendly platform that is accessible to a wide range of users so that students and other people can give their desired foods from their place.
+A low-cost, high-performance food and beverage service which may reduce the unavailability of foods in UIA among the students and other people in various situations.
+To assist administrators in keeping track of ordering records, locating them in the database, and managing order details as well as cancelled orders.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+					 				
+			
+# User Interface and Experience
 
-## Learning Laravel
+ **Intuitive Design**:
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+The website will be designed to work seamlessly on various devices, including desktops, tablets, and smartphones.
+Simple and clear menus and search functionalities will help users find what they need quickly.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+**Restaurant Listings**:
 
-## Laravel Sponsors
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+Each restaurant will have extensive details available, including location, hours of operation, and contact information.
+Menus will be displayed with descriptions, prices, and images of the dishes.
 
-### Premium Partners
+**Food Availability Tracking**:
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+Users will be able to see real-time updates on the availability of menu items to avoid ordering disappointments.
+Notifications will alert users when popular items are back in stock.
 
-## Contributing
+### Ordering and Delivery System
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+**Seamless Ordering Process:**
 
-## Code of Conduct
+Users can place orders through a straightforward and intuitive process.
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+**Delivery Management:**
 
-## Security Vulnerabilities
+The system will coordinate with delivery services to ensure timely and efficient food delivery. (remove?)
+Users can track their orders in real-time from preparation to delivery.
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+**Payment Gateway Integration:**
 
-## License
+The platform will support various payment methods, including credit/debit cards, online banking, and mobile wallets.
+Transactions will be secure, using encryption and fraud detection for safe payment processing.
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+## Promotions and Discounts
+
+**Exclusive Deals:**
+
+The website will highlight ongoing promotions, discounts, and special deals from participating restaurants.
+
+### Reviews and Ratings
+
+**User Reviews:**
+
+Users can rate their experiences and provide feedback through a rating system.
+
+### Administrative Tools
+
+**Order Management:**
+
+Restaurant owners will have access to a dashboard to manage orders, update menus, and track sales.
+Administrators can view and manage all orders, including their processing, preparation, and delivery statuses.
+
+
+# Entity-Relationship Diagram (ERD) for the UIAfood system:
+
+
+## Entities:
+![ERD WEB DEV](https://github.com/tanvironb/webdev/assets/170326332/7db17011-9c5c-46b4-b2de-2de0c9f03f91)
+
+**User**: Represents users of the system, including students and potentially staff/faculty.
+
+**Attributes**: User ID (primary key), Name, Email, Phone number
+**Restaurant**: Represents restaurants participating in the UIAfood system, including both on-campus canteens and off-campus restaurants.
+
+
+**Attributes:** Restaurant ID (primary key), Name, Location (text or foreign key to a Location table), Contact Information (phone, website)
+**Dish:** Represents individual food items offered by restaurants.
+
+
+**Attributes:** Dish ID (primary key), Name, Description, Price, Image (URL or file reference)
+**Order:** Represents an order placed by a user.
+
+
+**Attributes:** Order ID (primary key), User ID (foreign key to User table), Restaurant ID (foreign key to Restaurant table), Order Date, Order Time, Status (e.g., Pending, Preparing, Delivered, Cancelled)
+**Order_Item:** Connects orders with dishes (many-to-many relationship).
+
+
+### Attributes (primary key): Order ID (foreign key to Order table), Dish ID (foreign key to Dish table), Quantity
+### Relationships:
+One user can place many orders (one-to-many between User and Order).
+One restaurant can have many dishes (one-to-many between Restaurant and Dish).
+One order can include many dishes (many-to-many between Order and Dish, represented by the Order_Item table).
+
+# Sequence Diagram
+
+![WhatsApp Image 2024-05-21 at 10 53 09_796e49db](https://github.com/tanvironb/webdev/assets/170326332/8e0c1807-cbef-4e9a-af55-5e5db810e61e)
+
+# References
+For website template https://bootstrapmade.com/demo/Yummy/ 

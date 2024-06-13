@@ -1,4 +1,4 @@
-![image](https://github.com/TR-OMAR/UiaFoodService/assets/148281918/686df5b6-ee1f-477a-8211-515d6e96dd79)![image](https://github.com/TR-OMAR/UiaFoodService/assets/148281918/cabe0e77-ecc8-4403-a775-21e64858ab52)# UIA Food and Beverage system management
+# UIA Food and Beverage system management
 Section: 01
 
 Group: 04
@@ -156,6 +156,7 @@ One order can include many dishes (many-to-many between Order and Dish, represen
 
 # 8. Feedback Page
 ![Screenshot 2024-06-14 014944](https://github.com/TR-OMAR/UiaFoodService/assets/148281918/a04f1488-dce7-42f4-9d09-55c9a44bc8f1)
+
 
 # Challenges and Difficulties:
 A web developing application for a food delivery system shows us several challenges, where each requires thoughtful consideration and strategic solutions. Designing a system that is flexible enough to accommodate various restaurants with their food is essential and connecting with a delivery process was also challenging. 

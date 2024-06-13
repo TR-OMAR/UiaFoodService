@@ -149,15 +149,18 @@ One order can include many dishes (many-to-many between Order and Dish, represen
 ## 6. Order Page
 ![Screenshot 2024-06-14 015022](https://github.com/TR-OMAR/UiaFoodService/assets/148281918/fa15d6e7-28d5-4ada-a62d-96fb5a2c4613)
 
-## 7. Confirmation Page
+## 7. OrderHistory Page
+![Screenshot 2024-06-14 020644](https://github.com/TR-OMAR/UiaFoodService/assets/148281918/b081d6dd-ca36-4e1b-88b4-327be73df52b)
+
+## 8. Confirmation Page
 ![WhatsApp Image 2024-06-12 at 20 37 23_ceed6c7e](https://github.com/TR-OMAR/UiaFoodService/assets/148281918/aabe8da9-7b22-473b-b253-49b364f41548)
 
-## 8. Contact Page
+## 9. Contact Page
 ![Screenshot 2024-06-14 014809](https://github.com/TR-OMAR/UiaFoodService/assets/148281918/9d126e41-4281-4f03-ae2f-b8b05faa951c)
 
 ![Screenshot 2024-06-14 014820](https://github.com/TR-OMAR/UiaFoodService/assets/148281918/0ae9dd38-ef6a-4935-9380-878f5a539ce4)
 
-## 9. Feedback Page
+## 10. Feedback Page
 ![Screenshot 2024-06-14 014944](https://github.com/TR-OMAR/UiaFoodService/assets/148281918/a04f1488-dce7-42f4-9d09-55c9a44bc8f1)
 
 
